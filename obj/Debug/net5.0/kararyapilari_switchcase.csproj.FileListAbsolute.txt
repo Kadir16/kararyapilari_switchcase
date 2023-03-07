@@ -1,0 +1,16 @@
+C:\Users\Kadir\kararyapilari_switchcase\obj\Debug\net5.0\kararyapilari_switchcase.csproj.AssemblyReference.cache
+C:\Users\Kadir\kararyapilari_switchcase\obj\Debug\net5.0\kararyapilari_switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadir\kararyapilari_switchcase\obj\Debug\net5.0\kararyapilari_switchcase.AssemblyInfoInputs.cache
+C:\Users\Kadir\kararyapilari_switchcase\obj\Debug\net5.0\kararyapilari_switchcase.AssemblyInfo.cs
+C:\Users\Kadir\kararyapilari_switchcase\obj\Debug\net5.0\kararyapilari_switchcase.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\kararyapilari_switchcase\bin\Debug\net5.0\kararyapilari_switchcase.exe
+C:\Users\Kadir\kararyapilari_switchcase\bin\Debug\net5.0\kararyapilari_switchcase.deps.json
+C:\Users\Kadir\kararyapilari_switchcase\bin\Debug\net5.0\kararyapilari_switchcase.runtimeconfig.json
+C:\Users\Kadir\kararyapilari_switchcase\bin\Debug\net5.0\kararyapilari_switchcase.runtimeconfig.dev.json
+C:\Users\Kadir\kararyapilari_switchcase\bin\Debug\net5.0\kararyapilari_switchcase.dll
+C:\Users\Kadir\kararyapilari_switchcase\bin\Debug\net5.0\ref\kararyapilari_switchcase.dll
+C:\Users\Kadir\kararyapilari_switchcase\bin\Debug\net5.0\kararyapilari_switchcase.pdb
+C:\Users\Kadir\kararyapilari_switchcase\obj\Debug\net5.0\kararyapilari_switchcase.dll
+C:\Users\Kadir\kararyapilari_switchcase\obj\Debug\net5.0\ref\kararyapilari_switchcase.dll
+C:\Users\Kadir\kararyapilari_switchcase\obj\Debug\net5.0\kararyapilari_switchcase.pdb
+C:\Users\Kadir\kararyapilari_switchcase\obj\Debug\net5.0\kararyapilari_switchcase.genruntimeconfig.cache
